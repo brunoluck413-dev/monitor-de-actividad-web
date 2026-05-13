@@ -1,0 +1,9 @@
+# urls.txt — Lista de URLs a monitorear
+# Una URL por línea. Las líneas con # son ignoradas.
+
+https://www.google.com
+https://www.github.com
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpstat.us/500
+https://www.python.org
